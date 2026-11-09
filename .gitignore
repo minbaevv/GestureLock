@@ -1,0 +1,10 @@
+.venv/
+.venv313_bak/
+__pycache__/
+.idea/
+output.jpg
+hand_landmarker.task
+Photos/*
+!Photos/.gitkeep
+Videos/*
+!Videos/.gitkeep
